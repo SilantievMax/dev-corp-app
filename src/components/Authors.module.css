@@ -1,0 +1,7 @@
+.block {
+    @apply w-full h-screen;
+}
+
+.heading {
+    @apply flex justify-center text-center text-5xl font-bold mt-10;
+}
